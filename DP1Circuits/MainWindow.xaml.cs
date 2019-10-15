@@ -50,7 +50,7 @@ namespace DP1Circuits
 
             //Read circuit
             CircuitReader circuitReader = new CircuitReader();
-            List<string> fileInput = circuitReader.ReadFile(fullAdderPath);
+            List<string> fileInput = circuitReader.ReadFile(encoderPath);
 
             //Parse input
             CircuitParser parser = new CircuitParser(fileInput);
