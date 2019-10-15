@@ -1,0 +1,45 @@
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitTests\bin\Debug\DP1CircuitTests.dll
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitTests\bin\Debug\DP1CircuitTests.pdb
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitTests\bin\Debug\DP1Circuits.exe
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitTests\bin\Debug\DP1Circuits.pdb
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitTests\bin\Debug\DP1Circuits.exe.config
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitTests\obj\Debug\DP1CircuitTests.csprojResolveAssemblyReference.cache
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitTests\obj\Debug\DP1CircuitTests.dll
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitTests\obj\Debug\DP1CircuitTests.pdb
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\DP1CircuitTests.dll
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\DP1CircuitTests.pdb
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\DP1Circuits.exe
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\DP1Circuits.pdb
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\DP1Circuits.exe.config
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitsFinal\DP1CircuitTests\obj\Debug\DP1CircuitTests.csprojResolveAssemblyReference.cache
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitsFinal\DP1CircuitTests\obj\Debug\DP1CircuitTests.dll
+C:\Users\Remco van Ool\Documents\GitHub\DP1CircuitsFinal\DP1CircuitTests\obj\Debug\DP1CircuitTests.pdb
+D:\Mick\School\Blok 12\DP1\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Mick\School\Blok 12\DP1\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Mick\School\Blok 12\DP1\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Mick\School\Blok 12\DP1\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\DP1CircuitTests.dll
+D:\Mick\School\Blok 12\DP1\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\DP1CircuitTests.pdb
+D:\Mick\School\Blok 12\DP1\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\DP1Circuits.exe
+D:\Mick\School\Blok 12\DP1\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Mick\School\Blok 12\DP1\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Mick\School\Blok 12\DP1\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\DP1Circuits.pdb
+D:\Mick\School\Blok 12\DP1\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\DP1Circuits.exe.config
+D:\Mick\School\Blok 12\DP1\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Mick\School\Blok 12\DP1\DP1CircuitsFinal\DP1CircuitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Mick\School\Blok 12\DP1\DP1CircuitsFinal\DP1CircuitTests\obj\Debug\DP1CircuitTests.csprojResolveAssemblyReference.cache
+D:\Mick\School\Blok 12\DP1\DP1CircuitsFinal\DP1CircuitTests\obj\Debug\DP1CircuitTests.dll
+D:\Mick\School\Blok 12\DP1\DP1CircuitsFinal\DP1CircuitTests\obj\Debug\DP1CircuitTests.pdb
